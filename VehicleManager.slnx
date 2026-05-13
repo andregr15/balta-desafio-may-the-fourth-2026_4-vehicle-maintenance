@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VehicleManager.Ai/VehicleManager.Ai.csproj" />
+  <Project Path="VehicleManager.Api/VehicleManager.Api.csproj" />
+  <Project Path="VehicleManager.Core/VehicleManager.Core.csproj" />
+  <Project Path="VehicleManager.Infra/VehicleManager.Infra.csproj" />
+</Solution>
